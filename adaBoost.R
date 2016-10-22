@@ -1,5 +1,5 @@
-#By Mona Hadibarhaghtalab
-#9531228
+#By Mona Hadibarhaghtalab & Mina Amirzade
+
 
 
 library(rpart)
